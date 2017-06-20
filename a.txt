@@ -1,0 +1,10 @@
+ssh-keygen
+to copy to clipboard - clip < ~/.ssh/id_rsa.pub
+to view key files - ls ~/.ssh
+to view key in file - vi ~/id_rsa.pub
+
+to push
+git status
+git add
+git commit -m
+git push
